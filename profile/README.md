@@ -1,12 +1,11 @@
-## Hi there 👋
+## Weefound – Retrouver ses objets perdus n’a jamais été aussi simple.
 
-<!--
+`
+Des stickers magiques pour retrouver vos objets perdus sans chercher !
+`
 
-**Here are some ideas to get you started:**
+Collez-en sur votre téléphone, votre ordinateur, vos papiers d’identité et tous autres objets de valeur puis le tour est joué ! Simple, pratique nos stickers ont une bonne adhérence pour tous types d’objets et se colleront partout sans difficulté.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Une solution astucieuse qui respecte votre vie privée, sans tracking et sans tracas.
+
+[Comprendre le fonctionnement](https://weefound.io)
